@@ -2,5 +2,5 @@
 
 Employee Management application gives user the functionality of Add, Delete, and Edit Employee details.
 
-It created using React.js
+It is created using React.js
 
